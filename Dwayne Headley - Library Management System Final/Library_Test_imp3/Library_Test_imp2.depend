@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1701674822 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\librarymember.cpp
+	"libraryMember.h"
+	"libraryMember.h"
+
+1701674805 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\librarymember.h
+	<string>
+
+1701693727 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\main.cpp
+	<iostream>
+	"Librarians.h"
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+
+1701705454 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\librarians.h
+	"libraryItems.h"
+	"libraryMember.h"
+	"Customers.h"
+	<list>
+
+1701703521 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\customers.cpp
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+	"Customers.h"
+	<iostream>
+
+1701696409 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\customers.h
+	"libraryItems.h"
+	"libraryMember.h"
+	<string>
+	<list>
+
+1701705441 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\librarians.cpp
+	"Librarians.h"
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+	<iostream>
+
+1701676278 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\book.cpp
+	"Book.h"
+
+1701676266 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\book.h
+	"libraryItems.h"
+
+1701677578 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\libraryitems.h
+	<string>
+
+1701676405 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\digitalmedia.cpp
+	"DigitalMedia.h"
+
+1701676392 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\digitalmedia.h
+	"libraryItems.h"
+
+1701676322 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\journal.cpp
+	"Journal.h"
+
+1701676310 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\journal.h
+	"libraryItems.h"
+
+1701676244 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\libraryitems.cpp
+	"libraryItems.h"
+
+1701676359 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\magazine.cpp
+	"Magazine.h"
+
+1701676347 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp2\magazine.h
+	"libraryItems.h"
+
+1701676278 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\book.cpp
+	"Book.h"
+
+1701676266 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\book.h
+	"libraryItems.h"
+
+1701677578 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\libraryitems.h
+	<string>
+
+1701809250 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\customers.cpp
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+	"Customers.h"
+	<iostream>
+
+1701676310 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\journal.h
+	"libraryItems.h"
+
+1701676347 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\magazine.h
+	"libraryItems.h"
+
+1701676392 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\digitalmedia.h
+	"libraryItems.h"
+
+1701809193 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\customers.h
+	"libraryItems.h"
+	"libraryMember.h"
+	<string>
+	<list>
+
+1701674805 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\librarymember.h
+	<string>
+
+1701676405 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\digitalmedia.cpp
+	"DigitalMedia.h"
+
+1701676322 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\journal.cpp
+	"Journal.h"
+
+1701676244 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\libraryitems.cpp
+	"libraryItems.h"
+
+1701813666 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\librarymember.cpp
+	"libraryMember.h"
+
+1701676359 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\magazine.cpp
+	"Magazine.h"
+
+1701803531 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\librarians.cpp
+	"Librarians.h"
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+	<iostream>
+
+1701803504 c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\librarians.h
+	"libraryItems.h"
+	"libraryMember.h"
+	"Customers.h"
+	<list>
+
+1701809837 source:c:\users\dwayne\onedrive\documentos\usc\year 2\semester 2\cptr251\final assignment\library final 2\active_implementation\library_test_imp3\main.cpp
+	<iostream>
+	"Customers.h"
+	"Librarians.h"
+	"Book.h"
+	"Journal.h"
+	"Magazine.h"
+	"DigitalMedia.h"
+
