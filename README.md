@@ -1,2 +1,4 @@
-# Coding-Lab-2
+# Library Management System
+
+The library management system is essentially a system that
 
